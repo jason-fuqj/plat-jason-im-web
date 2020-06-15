@@ -1,4 +1,4 @@
-# sbm
+# plat-jason-im-web 内管前端项目
 
 > A Vue.js project
 
